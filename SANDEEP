@@ -1,0 +1,1 @@
+About The Git Architecture. The architecture of Git is designed to provide a flexible, scalable, and efficient way to manage source code changes. Git has a client-server architecture that allows multiple developers to work on the same codebase at the same time without the need for a centralized server.
